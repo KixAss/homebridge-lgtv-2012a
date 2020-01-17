@@ -1,0 +1,39 @@
+{
+  "_from": "homebridge-lgtv-2012a",
+  "_inBundle": false,
+  "_location": "/homebridge-lgtv-2012a",
+  "author": "KixAss <kixass456@gmail.com> (https://github.com/KixAss/)",
+  "bugs": {
+    "url": "https://github.com/KixAss/homebridge-lgtv-2012a/issues"
+  },
+  "dependencies": {
+    "lgtv-2012": "*",
+    "ping": "^0.2.2",
+    "util": "^0.10.3"
+  },
+  "deprecated": false,
+  "description": "homebridge-plugin - Add your LG TV (2012) to Homekit",
+  "engines": {
+    "homebridge": ">=0.2.5",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/KixAss/homebridge-lgtv-2012a#readme",
+  "keywords": [
+    "homebridge-plugin",
+    "Ziggo",
+    "Mediabox"
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "name": "homebridge-lgtv-2012a",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KixAss/homebridge-lgtv-2012a.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "devDependencies": {}
+}
